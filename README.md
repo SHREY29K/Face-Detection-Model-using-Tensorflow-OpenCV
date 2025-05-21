@@ -45,7 +45,7 @@ The project is actively in progress. So far, it includes:
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/Face-Detection-TF
+git clone https://github.com/SHREY29K/Face-Detection-Model-using-Tensorflow-OpenCV.git
 cd Face-Detection-TF
 
 # Install requirements
